@@ -1,5 +1,7 @@
 # PokéAPI
 
+The intent of this project is to practice making API requests and updating a page with new information.  It also showcases how to use 3rd party libraries in a project.  
+
 Skills you will be using:
 
   - JavaScript
